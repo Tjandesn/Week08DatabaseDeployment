@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SwinnyLibrary", "SwinnyLibrary\SwinnyLibrary.sqlproj", "{9E2FD6AD-A8A5-4A1F-B9CC-E6E591F4F37E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinnyAPI", "SwinnyAPI\SwinnyAPI.csproj", "{05783952-5936-4207-B504-74539ABAAF57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{9E2FD6AD-A8A5-4A1F-B9CC-E6E591F4F37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E2FD6AD-A8A5-4A1F-B9CC-E6E591F4F37E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9E2FD6AD-A8A5-4A1F-B9CC-E6E591F4F37E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{05783952-5936-4207-B504-74539ABAAF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05783952-5936-4207-B504-74539ABAAF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05783952-5936-4207-B504-74539ABAAF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05783952-5936-4207-B504-74539ABAAF57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
